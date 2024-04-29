@@ -1,7 +1,7 @@
 # Workshop 7: Simulation
 
 ## URL:
-
+https://noon0v0.github.io/Workshop_7/
 
 
 ## Tasks:
